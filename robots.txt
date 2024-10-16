@@ -2,4 +2,4 @@
 
 # Allow crawling of all content
 User-agent: Deepak In LocalMaster
-Disallow:
+Disallow: eVRYONE IN MASTER
