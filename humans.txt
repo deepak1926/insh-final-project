@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    CGBOD Developer -- PHP Developer -- vuserdeep
 
 # THANKS
 
