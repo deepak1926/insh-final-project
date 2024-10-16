@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Deepak Satankar
 
 # TECHNOLOGY COLOPHON
 
